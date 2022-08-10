@@ -47,7 +47,7 @@ node index.js cos 60 // Output --> -0.9524129804151563 || cos of an angel given 
 ## Tan
 
 ```bash
-node index.js tan 60 // Output --> 0.320040389379563 || sin of an angel given in radians
+node index.js tan 60 // Output --> 0.320040389379563 || tan of an angel given in radians
 ```
 
 ## Random
